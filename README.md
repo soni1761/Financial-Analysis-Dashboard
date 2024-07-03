@@ -1,4 +1,4 @@
-Welcome to the Financial Reporting & Analysis with Power BI repository! This project showcases a comprehensive financial analysis solution built using Power BI. Powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
+This project showcases a comprehensive financial analysis solution built using Power BI. Powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
 
 Features
 Comprehensive Financial Reporting: Gain insights into financial performance through a detailed Profit & Loss Statement and other fundamental analytics.
